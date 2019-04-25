@@ -11,7 +11,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "https://github.com/alphasights/ember-calendar",
+  "repository": "https://github.com/Baseventure/ember-calendar",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
@@ -46,7 +46,7 @@
     "loader.js": "4.2.3"
   },
   "engines": {
-    "node": ">= 7"
+    "node": ">= 8"
   },
   "ember-addon": {
     "demoURL": "https://alphasights.github.io/ember-calendar/demo",
