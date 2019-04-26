@@ -157,10 +157,10 @@ We do not add any vendor CSS to your app by default, but you can include it if y
 ```scss
 // app/styles/app.scss
 
-@import 'bower_components/fontawesome/scss/variables';
-@import 'bower_components/fontawesome/scss/path';
-@import 'bower_components/fontawesome/scss/mixins';
-@import 'bower_components/fontawesome/scss/icons';
+@import 'bower_components/font-awesome/scss/variables';
+@import 'bower_components/font-awesome/scss/path';
+@import 'bower_components/font-awesome/scss/mixins';
+@import 'bower_components/font-awesome/scss/icons';
 
 @import 'addons/ember-calendar/paint-core';
 @import 'addons/ember-calendar/main';

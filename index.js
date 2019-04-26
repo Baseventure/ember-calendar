@@ -16,23 +16,23 @@ module.exports = {
     }
 
     if (options.includeFontAwesomeAssets) {
-      app.import(path.join(app.bowerDirectory, 'fontawesome/fonts/fontawesome-webfont.ttf'), {
+      app.import(path.join(app.bowerDirectory, 'font-awesome/fonts/fontawesome-webfont.ttf'), {
         destDir: 'fonts'
       });
 
-      app.import(path.join(app.bowerDirectory, 'fontawesome/fonts/fontawesome-webfont.woff'), {
+      app.import(path.join(app.bowerDirectory, 'font-awesome/fonts/fontawesome-webfont.woff'), {
         destDir: 'fonts'
       });
 
-      app.import(path.join(app.bowerDirectory, 'fontawesome/fonts/fontawesome-webfont.woff2'), {
+      app.import(path.join(app.bowerDirectory, 'font-awesome/fonts/fontawesome-webfont.woff2'), {
         destDir: 'fonts'
       });
 
-      app.import(path.join(app.bowerDirectory, 'fontawesome/fonts/fontawesome-webfont.svg'), {
+      app.import(path.join(app.bowerDirectory, 'font-awesome/fonts/fontawesome-webfont.svg'), {
         destDir: 'fonts'
       });
 
-      app.import(path.join(app.bowerDirectory, 'fontawesome/fonts/fontawesome-webfont.eot'), {
+      app.import(path.join(app.bowerDirectory, 'font-awesome/fonts/fontawesome-webfont.eot'), {
         destDir: 'fonts'
       });
     }
