@@ -46,7 +46,7 @@
     "loader.js": "4.2.3"
   },
   "engines": {
-    "node": ">= 8"
+    "node": ">= 6"
   },
   "ember-addon": {
     "demoURL": "https://alphasights.github.io/ember-calendar/demo",
